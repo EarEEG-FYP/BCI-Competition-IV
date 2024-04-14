@@ -1,4 +1,5 @@
-dataset/
+dataset*/
 scalograms/
 .DS_Store
 .gitignore
+results/
