@@ -3,3 +3,4 @@ scalograms/
 .DS_Store
 .gitignore
 results/
+all_datasets/
